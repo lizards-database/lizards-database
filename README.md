@@ -15,4 +15,4 @@ coming soon
 ---
 
 rain world!!!
-![rain world](lizard.png)
+![rain world](rain-world-lizard.gif)
