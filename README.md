@@ -7,6 +7,9 @@ hi i put other stuff here. huzzah. don't expect this place to be very active but
 - https
 - other things
 
+## // FINISHED STUFF //
+- petgame
+
 ## // PROJECTS //
 coming soon
 
