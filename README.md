@@ -1,16 +1,17 @@
 # greetings
 
-this is where i store some of my other projects made in different coding languages, or just other stuff I want to keep here. take your time and look around
+hi i put other stuff here. huzzah. don't expect this place to be very active but you may find cool things here
 
 ## // CURRENT OBJECTIVE //
-- put the silly pet game here
-- continue learning https
+- ultrabox samples!!
+- https
+- other things
 
 ## // PROJECTS //
 coming soon
 
 ## // WEBSITE //
-coming soon
+no idea if i'll ever do this
 
 ---
 
