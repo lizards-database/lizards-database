@@ -1,6 +1,6 @@
 # greetings
 
-hi i put other stuff here. huzzah. don't expect this place to be very active but you may find cool things here
+hi i put other stuff here. you might just find something
 
 ## // CURRENT OBJECTIVE //
 - ultrabox samples!!
