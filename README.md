@@ -1,11 +1,11 @@
 # greetings
 
 hi i put other stuff here. you might just find something
+are you in the know?
 
 ## // CURRENT OBJECTIVE //
-- ultrabox samples!!
-- https
-- other things
+- bridge?
+- html (I'M DECAYING)
 
 ## // FINISHED STUFF //
 - petgame
