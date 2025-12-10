@@ -32,3 +32,4 @@ rain world!!!
 - there being no apostrophe in my username (outside of the profile and stuff) angers me to no end
 - i am trying to make a long form project i can have fun with and be proud of
 - i really have to learn new skills
+- if you're peeping you likely aren't supposed to be here with a few exceptions so GET OUT!!!
