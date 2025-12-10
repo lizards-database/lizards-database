@@ -27,7 +27,7 @@ rain world!!!
 ![rain world](rain-world-lizard.gif)
 
 ---
-##fun facts
+## fun facts
 - i am decaying from lack of a good website hosting place
 - there being no apostrophe in my username (outside of the profile and stuff) angers me to no end
 - i am trying to make a long form project i can have fun with and be proud of
