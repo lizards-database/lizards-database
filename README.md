@@ -26,6 +26,8 @@ rain world!!!
 
 ![rain world](rain-world-lizard.gif)
 
+<a href="https://corru.observer">![corru](https://corru.observer/8831.gif)</a>
+
 ---
 ## fun facts
 - i am decaying from lack of a good website hosting place
