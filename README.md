@@ -28,7 +28,7 @@ rain world!!!
 
 ---
 
-<a href="https://corru.observer">![corru](https://corru.observer/8831.gif)</a> <a href="https://heavenonline.xyz/">![heavenonline](https://heavenonline.xyz/blog/collectables/)</a> 
+<a href="https://corru.observer">![corru](https://corru.observer/8831.gif)</a> <a href="https://heavenonline.xyz/">![heavenonline](https://heavenonline.xyz/blog/collectables/buttons/tell_it.gif)</a> 
 
 ---
 ## fun facts
