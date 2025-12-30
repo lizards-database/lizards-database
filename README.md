@@ -5,8 +5,8 @@ hi i put other stuff here. you might just find something
 are you in the know?
 
 ## // CURRENT OBJECTIVE //
-- bridge?
-- html (I'M DECAYING)
+- bridge
+- html, css, js(?)
 
 
 ## // FINISHED STUFF //
