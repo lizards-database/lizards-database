@@ -18,7 +18,7 @@ coming soon
 
 
 ## // WEBSITE //
-no idea if i'll ever do this
+exists, if you're in the know
 
 ---
 
